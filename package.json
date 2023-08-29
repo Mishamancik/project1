@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "docker": "^1.0.0",
+    "yarn": "^1.22.19"
+  },
+  "name": "portm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikhail_Magradze",
+  "license": "ISC",
+  "description": ""
+}
